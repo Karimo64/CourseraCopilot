@@ -1,4 +1,4 @@
-# Skyll’s Portfolio
+# Karimoo’s Portfolio
 
 This is my portfolio project built as part of the Coursera course using Microsoft Copilot.
 
